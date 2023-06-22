@@ -54,6 +54,9 @@ body{
 .botao .icon{
     width: 18px;
 }
+.botao:hover{
+    cursor: pointer;
+}
 @media(max-width:429px) {
     .cartao{
      max-width: 320px;
